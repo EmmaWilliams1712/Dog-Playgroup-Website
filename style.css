@@ -64,8 +64,21 @@
 
 .info p {
     max-width: 100%;
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'Finger Paint', cursive;
+}
+
+@media (min-width: 768px) {
+    .info p {
+        font-size: 22px;
+    }
+
+}
+
+@media (min-width: 1024px) {
+    .info p {
+        font-size: 28px; 
+    }
 }
 
 .info button {
@@ -80,7 +93,6 @@
     max-height: 20%; 
     max-width: 20%;
     border-radius: 50px;
-
     
 }
 
@@ -166,7 +178,7 @@ h2 {
 }
 
 @media (min-width: 1024px) {
-    .info p {
+    .quote, .author {
         font-size: 30px; 
     }
 }
