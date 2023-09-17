@@ -1,1 +1,3 @@
-# Landing-Page
+# Dog-Playgroup-Website
+
+This repository contains the code for Bruno's Best Buddies Playgroup website which is built using only HTML and CSS. It is designed to inform other dog lovers about a dog playgroup with what goes on in the group, special events, types of dogs who attend, and more. The website includes fun quotes, animations and media - both photos and videos in the gallery, to enhance interactivity and user experience. 
